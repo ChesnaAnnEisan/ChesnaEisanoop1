@@ -7,7 +7,6 @@
 // The user is asked how many days to analyze the data for the
 // ans must be in range 2 and 366
 
-
 // This is for importing scanner class to get the user input data
 import org.w3c.dom.ls.LSOutput;
 
